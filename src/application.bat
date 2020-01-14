@@ -1,4 +1,4 @@
-### application.bat - 2020 - TALDIR ###
+### application.bat - 2020 - TALDIR / Julien MAINGARD ###
 
 echo "Copyright company - 2020"
 version="2"
