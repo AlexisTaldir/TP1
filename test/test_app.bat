@@ -1,5 +1,3 @@
-### application.bat - 2019 - TALDIR ###
-version = "1.2.1"
-
+### test_app.bat - 2020 - TALDIR ###
+version = "2.0.0"
 build_hour = "11H00"
-
